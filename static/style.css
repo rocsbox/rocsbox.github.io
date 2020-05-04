@@ -1,6 +1,11 @@
 body {
-  font-family: 'Garamond', 'times', serif;
-  font-size: 125%;
+  color: #CFB53B;
+  font-family; 'Baskerville Old Face', seriff;
+  font-size: 130%;
+  text-aline: center;
+  background-color: #OB6623
+  margin-right: 70px;
+  margin-left: 70px;
 }
 h1 { 
   font-variant: small-caps;
