@@ -8,9 +8,12 @@ body {
   margin-left: 70px;
 }
 h1 { 
-  font-variant: small-caps;
+  color:#OB6623;
+  font-family:"Perpetua Titling MT", serif;
+  font-size: 175%;
   text-align: center;
-  margin-bottom: 15px;
+  margin-bottom: 18px;
+  font-variant: small-caps;
 }
 
 ul.main-menu {
