@@ -91,11 +91,11 @@ img {display: block;
   margin-right: auto;
 }
 a:link{color: #8A2BE2;}
-a:visited {color: #CFB53B;}
+a:visited {color: #8A2BE2;}
 a:hover {color: #CFB53B;}
 
 a.web:link{color: #8A2BE2;}
-a.web:visited {color: #CFB53B;}
+a.web:visited {color: #8A2BE2;}
 a.web:hover {color: #CFB53B;}
 
 footer{ width: 90%;
