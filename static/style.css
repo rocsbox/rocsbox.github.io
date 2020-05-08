@@ -80,3 +80,10 @@ width: 70%;
   margin-right: auto;
   display: block;
 }
+p {margin-right: 70px;
+  margin-left: 70px;
+  font-family: "Baskerville Old Face", seriff;
+  color: #CFB53B;
+  }
+ .image{text-align: center;
+}
