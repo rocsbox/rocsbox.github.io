@@ -1,29 +1,77 @@
-body {
-  color: #CFB53B;
+h1 {
+  text-align: center;
+  border-style: dashed solid;
+  border-color: #0B6623;
   font-family: "Baskerville Old Face", seriff;
+  color: #CFB53B;
   font-size: 130%;
-  text-aline: center;
-  background-color: #OB6623
+  width; 60%;
+  margin-right: 70px;
+  margin-left: 70px}
+
+ul.main-menu {
+  list-style-type: none;
+  text-align: center
+  padding: 15px;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  display: block;
+  color: #CFB53B;
+  background-color: #0B6623;
+  font-family: "Baskerville Old Face", seriff;
+}
+
+ul.main-menu>li {
+  list-style-type: none;
+  text-align: center;
+  padding; 10px;
+  width: 20%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+ul.sub-menu {
+  list-style-type: none;
+  text-align: center;
+  padding: 10px;
+  margin-left: 70px;
+  margin-right: 70px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  display: block;
+  color: #CFB53B;
+  background-color: #0B6623;
+  font-family: "Baskerville Old Face", seriff;
+  border-style: dashed solid;
+  border-color: #CFB53B
+  }
+ul.sub-menu>li{
+  list-style-type: none;
+  text-align: center;
+  padding; 5px;
+  width: 15%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+div{border-radius: 30px;
+  background-color: #0B6623;
+  height: 50px;
+  margin-top: 15px;
   margin-right: 70px;
   margin-left: 70px;
 }
-h1 { 
-  color:#CFB53B;
-  font-family: "Perpetua Titling MT", serif;
-  font-size: 175%;
-  text-align: center;
-  margin-bottom: 18px;
-  font-variant: small-caps;
+h2{margin-top: 10px;
+  margin-left: 10px;
+  color: #CFB53B;
 }
 
-ul.main-menu {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
-ul.main-menu>li {
-    display: inline;
-}
 .frame {
 width: 70%;
   margin-left: auto;
