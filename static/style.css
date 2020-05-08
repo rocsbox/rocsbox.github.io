@@ -85,5 +85,7 @@ p {margin-right: 70px;
   font-family: "Baskerville Old Face", seriff;
   color: #CFB53B;
   }
- .img{text-align: center;
+img {display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
