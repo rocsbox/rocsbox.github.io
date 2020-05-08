@@ -3,7 +3,7 @@ h1 {
   border-style: dashed solid;
   border-color: #8FBC8F;
   font-family: "Baskerville Old Face", seriff;
-  color: #CFB53B;
+  color: #8A2BE2;
   font-size: 130%;
   width; 60%;
   margin-right: 70px;
@@ -21,7 +21,7 @@ ul.main-menu {
   margin-top: 0px;
   margin-bottom: 0px;
   display: block;
-  color: #CFB53B;
+  color: #8A2BE2;
   background-color: #8FBC8F;
   font-family: "Baskerville Old Face", seriff;
 }
@@ -46,7 +46,7 @@ ul.sub-menu {
   margin-top: 0px;
   margin-bottom: 0px;
   display: block;
-  color: #CFB53B;
+  color: #8A2BE2;
   background-color: #8FBC8F;
   font-family: "Baskerville Old Face", seriff;
   border-style: dashed solid;
@@ -71,7 +71,7 @@ div{border-radius: 30px;
 }
 h2{margin-top: 10px;
   margin-left: 10px;
-  color: #CFB53B;
+  color: #8A2BE2;
 }
 
 .frame {
