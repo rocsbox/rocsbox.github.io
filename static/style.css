@@ -100,8 +100,8 @@ a.web:hover {color: #CFB53B;}
 
 footer{ width: 60%;
   margin-top: 10px;
-  margin-right: 70px;
-  margin-left: 70px;
+  margin-right: auto;
+  margin-left: auto;
   color: #8A2BE2;
   border-style: dashed solid;
   border-color: #8FBC8F;
