@@ -7,7 +7,9 @@ h1 {
   font-size: 130%;
   width; 60%;
   margin-right: 70px;
-  margin-left: 70px}
+  margin-left: 70px;
+  margin-bottom: 10px;
+}
 
 ul.main-menu {
   list-style-type: none;
