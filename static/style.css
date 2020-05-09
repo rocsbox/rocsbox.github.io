@@ -63,6 +63,8 @@ ul.sub-menu>li{
   margin-right: auto;
   margin-top: auto;
   margin-bottom: auto;
+  border-style: dashed solid;
+  border-color: #CFB53B
 }
 div{border-radius: 30px;
   background-color: #8FBC8F;
