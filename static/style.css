@@ -55,7 +55,7 @@ ul.sub-menu {
 ul.sub-menu>li{
   list-style-type: none;
   text-align: center;
-  padding; 5px;
+  padding; 10px;
   width: 15%;
   margin-left: auto;
   margin-right: auto;
