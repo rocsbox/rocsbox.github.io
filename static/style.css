@@ -100,7 +100,7 @@ a:
 a:visited {color: #8A2BE2;}
 a:hover {color: #CFB53B;}
 a:active {color: #000000;}
-li.current a.active {color: #000000}
+ul.current a:active {color: #000000}
 
 a.web:link{color: #8A2BE2;}
 a.web:visited {color: #8A2BE2;}
