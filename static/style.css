@@ -123,3 +123,6 @@ table { margin: 0 auto; }
 th { text-align: center; 
      background-color: #8FBC8F;
      color: #000000;}
+iframe { margin-left: auto;
+     margin-right: auto;
+     align: center;}
